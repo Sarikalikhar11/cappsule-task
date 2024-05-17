@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.search-input {
+  width: 100%;
+  box-shadow: 5px 5px 10px 10px rgba(204, 204, 204, 0.422);
+  padding-left: 70px;
+}
+/* .search-input[type='text']::placeholder {
+  padding-left: 10px;
+} */
+.icon {
+  left: 20px;
+}
+.search-btn {
+  bottom: 1px;
+  right: 40px;
+  /* font-size: 19px; */
+  color: rgb(2, 78, 81);
+}
+.bottom-text p {
+  left: 230px;
+  bottom: -280px;
+}
